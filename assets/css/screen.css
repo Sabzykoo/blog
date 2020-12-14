@@ -78,6 +78,11 @@ section.recent-posts {
     margin-bottom: -1px;
 }
 
+.capitalize:first-letter {
+    text-transform: capitalize;
+    display: inline-block;
+}
+
 .article-post ol,
 .article-post ul {
     margin-bottom: 1.5rem;

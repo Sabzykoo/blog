@@ -1,9 +1,9 @@
 # Site
 name: "Blog o zdravoj prehrani"
 title: "Blog o zdravoj prehrani"
-description: "Saznaj o zdravoj prehrani kroz zdrave recepte!"
+description: "Trikovi i savjeti o zdravoj prehrani i životu."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/fav.png'
 baseurl: /blog
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -16,10 +16,17 @@ authors:
   Sabrina:
     name: Sabrina
     display_name: Sabrina
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: sermiskulin@gmail.com
-    web: https://www.wowthemes.net
-    description: "Blogerica. Voli proučavati prirodne metode lijećenja i utjecaj hrane na zdravlje."
+    email: info@nutritivno.com
+    avatar: 'assets/images/avatar.png'
+    description: "Razmisli, istraži, otkrij, probaj."
+    web: 'sabrina'
+
+  Mislav:
+    name: Mislav
+    display_name: Mislav
+    email: info@nutritivno.com
+    avatar: 'assets/images/avatar.png'
+    description: "Bloger."
 
 # Plugins
 plugins:
@@ -35,7 +42,7 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
+    category: '/:name/'
     
 # Pagination 
 paginate: 6
