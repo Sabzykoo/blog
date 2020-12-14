@@ -17,7 +17,7 @@ Kroz par jednostavnih koraka možete imati vrlo ukusan i hranjiv jogurt.
 ## Nabavite kvalitetno mlijeko
 
 Imate slobodu biranja od kakvog mlijeka ćete raditi jogurt. Preporuka je svježe, domaće, organsko (EKO) mlijeko bilo kravljeg, ovjčeg ili kozjeg. 
-Mlijeka iz dućana sadrže male količine hormona i antibiotika koji se daju životinji, zato osobno preporučujem što prirodnije mlijeko - kojen možemo naći kod lokalnih, domaćih proizvođača.
+Mlijeka iz dućana sadrže male količine hormona i antibiotika koji se daju životinji, zato osobno preporučujem što prirodnije mlijeko - kojeg možemo naći kod lokalnih, domaćih proizvođača.
 
 ## Bez laktoze
 
