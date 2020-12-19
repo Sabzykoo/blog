@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Veloluška gruda"
-subtitle: "mediteranska kulinarska tradicija pod maslinama"
+title:  "Velolučka gruda"
+subtitle: "Mediteranska kulinarska tradicija pod maslinama."
 author: Sabrina
 categories: [ recepti, zdrava hrana, ljekovite biljke ]
 image: assets/images/veloluska_gruda.jpg

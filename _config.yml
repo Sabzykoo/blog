@@ -18,8 +18,9 @@ authors:
     display_name: Sabrina
     email: info@nutritivno.com
     avatar: 'assets/images/avatar.png'
-    description: "Razmisli, istraži, otkrij, probaj."
+    description: "Misli, istraži, otkrij, probaj."
     web: 'sabrina'
+    facebook: "https://facebook.com/sabrina.miskulin"
 
   Mislav:
     name: Mislav
