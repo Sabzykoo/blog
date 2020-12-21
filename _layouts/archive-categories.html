@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Archive
+permalink: /putovanja.html
 ---
 
 <!-- Begin List Posts
@@ -10,12 +11,10 @@ title: Archive
     <h2><span class="capitalize">{{ page.title }}</span></h2>
 </div>
 <div class="row listrecent">
-
-{% for post in page.posts %}
-
-    {% include postbox.html %}
-
+{% for post in site.posts %}
+{% if post.categories contains page.category or post.category == page.category %}
+{% include postbox.html %}
+{% endif %}    
 {% endfor %}
-
 </div>
 </section>
